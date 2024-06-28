@@ -2,6 +2,7 @@
     "files.associations": {
         "1152.C": "cpp",
         "2475.C": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "2739.C": "cpp"
     }
 }
