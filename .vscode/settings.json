@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "1152.C": "cpp"
+        "1152.C": "cpp",
+        "2475.C": "cpp",
+        "cmath": "cpp"
     }
 }
