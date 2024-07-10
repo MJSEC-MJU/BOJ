@@ -55,12 +55,13 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
+.cph/
 nosetests.xml
 coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
-
+*.bin
 # Jupyter Notebook
 .ipynb_checkpoints
 
